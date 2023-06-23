@@ -1,4 +1,4 @@
-## vContact - Test task
+## vContact - Contact Management System
 
 ## Run Instructions
 
